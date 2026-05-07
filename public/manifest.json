@@ -1,0 +1,9 @@
+{
+  "name": "Nayi Manzil",
+  "short_name": "Nayi Manzil",
+  "description": "Professional Portfolio of Hanan Irfan, Web Developer & SEO Expert",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4"
+}
