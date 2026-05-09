@@ -50,7 +50,7 @@ export default function About() {
               >
                 <div className="relative aspect-[4/5] rounded-3xl overflow-hidden border border-slate-700 shadow-[0_0_40px_rgba(0,0,0,0.5)] group">
                   <img 
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80" 
+                    src="https://pbs.twimg.com/profile_images/2022622427378020352/xOqGLbdb.jpg" 
                     alt="Hanan Irfan - Full Stack Developer and Expert SEO Professional" 
                     loading="lazy" 
                     className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700" 
