@@ -8,9 +8,9 @@ export interface SEOProps {
 }
 
 export const defaultSEO: SEOProps = {
-  title: "Nayi Manzil - Hanan Irfan | Web Developer & SEO Expert",
-  description: "Nayi Manzil is the professional portfolio of Hanan Irfan, a Full Stack Developer, Next.js Expert, and Semantic SEO Specialist from Pakistan.",
-  keywords: "Nayi Manzil, Nayi Manzil Portfolio, Hanan Irfan, Hanan Irfan Developer, SEO Expert Pakistan, Web Developer Pakistan, Next.js Developer, React Developer, Frontend Developer",
+  title: "Nayi Manzil | A Story of Digital Success & Innovation",
+  description: "Discover Nayi Manzil - a story of resilience, innovation, and digital transformation. Your ultimate new destination for technical SEO, web development, and digital branding strategies.",
+  keywords: "Nayi Manzil, Nayi Manzil Story, Nayi Manzil Official Website, Nayi Manzil Digital Brand, Nayi Manzil Journey, SEO Strategies, Web Development Experiences, Hanan Irfan",
   url: "https://nayi-manzil.vercel.app/",
   image: "/logo.png"
 };

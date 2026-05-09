@@ -8,7 +8,7 @@ function Title({ children }: { children: React.ReactNode }) {
 export default function CookiePolicy() {
   return (
     <>
-      <SEO title="Cookie Policy | Nayi Manzil - Hanan Irfan" description="Cookie Policy for Nayi Manzil portfolio website." />
+      <SEO title="Cookie Policy | Nayi Manzil" description="Cookie Policy for Nayi Manzil website." />
       <div className="pt-32 pb-24 container mx-auto px-4 max-w-4xl">
         <div className="prose prose-invert prose-cyan max-w-none">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Cookie Policy</h1>
@@ -25,7 +25,7 @@ export default function CookiePolicy() {
 
           <Title>Why do we use cookies?</Title>
           <p className="text-slate-300 leading-relaxed mb-6">
-            We currently do not use aggressive third-party tracking or advertising cookies. Any cookies set by this site are purely for technical performance, security (such as Cloudflare or Vercel infrastructure cookies), and essential analytical purposes to ensure the portfolio loads fast and reliably. If we implement Google Analytics or Google AdSense in the future, standard analytical and advertising cookies may be deployed in accordance with Google's policies.
+            We use continuous performance cookies as well as third-party advertising cookies. Third party vendors, including Google, use the DoubleClick DART cookie to serve personalized ads based on your visit to our website and other websites across the internet. Google's use of advertising cookies enables it and its partners to serve ads to our users. Users can always opt out of personalized ads by visiting the Google Ads Settings page or tracking choices offered by www.aboutads.info.
           </p>
 
           <Title>How can I control cookies?</Title>

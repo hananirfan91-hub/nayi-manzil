@@ -41,8 +41,8 @@ export default function Home() {
   return (
     <>
       <SEO 
-        title="Nayi Manzil - Official Portfolio of Hanan Irfan | Web Developer & SEO Expert" 
-        description="Welcome to Nayi Manzil! From struggle to success, discover the professional portfolio of Hanan Irfan, a Full Stack Developer, Next.js Expert, and Semantic SEO Specialist from Pakistan."
+        title="Nayi Manzil | A Story of Digital Transformation & Success" 
+        description="Welcome to Nayi Manzil. This is not just a platform, it is the story of ambition, digital success, technical SEO, and innovative web development. Discover the Nayi Manzil journey."
         schema={homeSchema}
       />
       
@@ -78,7 +78,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-lg md:text-2xl text-slate-400 max-w-3xl mx-auto mb-10 leading-relaxed font-light"
           >
-            I am <strong className="text-white">Hanan Irfan</strong>, a Full Stack Developer & SEO Expert from Pakistan. I transform complex ideas into modern, scalable, and highly optimized digital realities.
+            Welcome to <strong className="text-white">Nayi Manzil</strong>, meaning "New Destination". This represents a journey of transforming complex challenges into modern, scalable, and highly optimized digital realities.
           </motion.p>
 
           <motion.div 
@@ -126,7 +126,7 @@ export default function Home() {
                   But through immense hard work, endless nights of coding, and a relentless passion for learning, I built my brand. Today, Nayi Manzil stands as a testament to what dedication can achieve. It is not just a portfolio; it is a creative studio delivering premium web solutions to modern businesses worldwide.
                 </p>
                 <p className="border-l-4 border-cyan-500 pl-4 italic text-slate-400">
-                  "Every great website starts with an idea, but it takes ambition and resilience to reach the new destination." - Hanan Irfan
+                  "Every great digital product starts with an idea, but it takes ambition and resilience to reach the new destination."
                 </p>
               </div>
             </motion.div>
@@ -139,7 +139,7 @@ export default function Home() {
             >
                <img 
                  src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80" 
-                 alt="Hanan Irfan - Full Stack Developer Workspace and Code Environment" 
+                 alt="Nayi Manzil Workspace and Code Environment" 
                  loading="lazy" 
                  className="absolute inset-0 w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 opacity-60 mix-blend-overlay"
                />
@@ -223,7 +223,7 @@ export default function Home() {
         <div className="container mx-auto px-4 max-w-7xl">
           <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
             <div>
-              <span className="text-cyan-500 font-bold tracking-wider uppercase text-sm mb-4 block">My Portfolio</span>
+              <span className="text-cyan-500 font-bold tracking-wider uppercase text-sm mb-4 block">The Work</span>
               <h2 className="text-4xl md:text-5xl font-bold text-white">Featured Work</h2>
             </div>
             <Link to="/portfolio" className="inline-flex items-center gap-2 text-cyan-400 hover:text-cyan-300 font-medium uppercase tracking-wider text-sm group">
@@ -267,7 +267,7 @@ export default function Home() {
                 <div className="aspect-video bg-slate-900 p-6 flex flex-col justify-end relative overflow-hidden group">
                    <img 
                      src={project.image} 
-                     alt={`${project.title} - Modern web project by Hanan Irfan`} 
+                     alt={`${project.title} - Modern web project by Nayi Manzil`} 
                      loading="lazy" 
                      className="absolute inset-0 w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 opacity-60"
                    />

@@ -51,7 +51,7 @@ export default function Services() {
     <>
       <SEO 
         title="Professional Web Development & SEO Services | Nayi Manzil" 
-        description="Hire Hanan Irfan for elite React/Next.js development, Technical SEO, Website Optimization, and custom UI/UX design. Transforming ideas into digital reality."
+        description="Hire Nayi Manzil for elite React/Next.js development, Technical SEO, Website Optimization, and custom UI/UX design. Transforming ideas into digital reality."
         keywords="Web Development Services, SEO Services Pakistan, Next.js Development, Website Speed Optimization, Professional Website Designer, Affordable SEO Services"
       />
 
@@ -80,7 +80,7 @@ export default function Services() {
                   <div className="relative aspect-[4/3] rounded-3xl overflow-hidden bg-slate-900 border border-slate-800 flex items-center justify-center group shadow-[0_0_30px_rgba(0,0,0,0.5)]">
                     <img 
                       src={service.image} 
-                      alt={`${service.title} Services by Hanan Irfan in Pakistan`}
+                      alt={`${service.title} Services by Nayi Manzil`}
                       loading="lazy"
                       className="absolute inset-0 w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 mix-blend-overlay opacity-50"
                     />

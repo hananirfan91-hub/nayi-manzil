@@ -34,8 +34,8 @@ export function SEO({ title, description, keywords, url, image, schema }: Partia
       <meta property="twitter:site" content="@hananirfan2026" />
 
       {/* Additional Author/Creator Meta */}
-      <meta name="author" content="Hanan Irfan" />
-      <meta name="creator" content="Hanan Irfan" />
+      <meta name="author" content="Nayi Manzil" />
+      <meta name="creator" content="Nayi Manzil" />
       <meta name="publisher" content="Nayi Manzil" />
       
       {/* Canonical */}

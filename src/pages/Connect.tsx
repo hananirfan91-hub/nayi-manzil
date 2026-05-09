@@ -6,9 +6,9 @@ export default function Connect() {
   return (
     <>
       <SEO 
-        title="Connect & Hire Hanan Irfan | Nayi Manzil Portfolio" 
-        description="Connect with Hanan Irfan, a Full Stack Web Developer and Technical SEO Expert from Pakistan. Available for freelance opportunities, remote work, and collaborations." 
-        keywords="Hire Frontend Developer, Freelance Web Designer, Hanan Irfan Contact, Nayi Manzil Connect, Hire SEO Expert Pakistan"
+        title="Connect with Nayi Manzil | Official Digital Studio" 
+        description="Connect with Nayi Manzil, a premium digital studio specializing in Full Stack Web Development and Technical SEO. Available for freelance opportunities and collaborations." 
+        keywords="Hire Frontend Developer, Freelance Web Designer, Nayi Manzil Contact, Nayi Manzil Connect, Hire SEO Expert Pakistan, Digital Studio Pakistan"
       />
       <div className="pt-32 pb-24 container mx-auto px-4 max-w-5xl">
         <motion.div 
@@ -70,7 +70,7 @@ export default function Connect() {
               </a>
               <a href="https://facebook.com/HananIrfan001" target="_blank" rel="noreferrer" className="w-full py-4 px-6 rounded-xl bg-slate-800 hover:bg-slate-700 text-white font-medium flex justify-between items-center transition-colors">
                 <span>Facebook</span>
-                <span className="text-cyan-400 text-sm">Hanan Irfan</span>
+                <span className="text-cyan-400 text-sm">Nayi Manzil</span>
               </a>
               <a href="https://www.youtube.com/@ancientmystery-0" target="_blank" rel="noreferrer" className="w-full py-4 px-6 rounded-xl bg-slate-800 hover:bg-slate-700 text-white font-medium flex justify-between items-center transition-colors">
                 <span>YouTube</span>

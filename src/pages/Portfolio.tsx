@@ -90,8 +90,8 @@ export default function Portfolio() {
   return (
     <>
       <SEO 
-        title="Modern Web Developer Portfolio | Hanan Irfan | Nayi Manzil" 
-        description="Explore the advanced developer portfolio of Hanan Irfan. View cutting-edge Next.js apps, SEO-optimized content sites, and premium digital agency websites."
+        title="Modern Web Developer Portfolio | Nayi Manzil" 
+        description="Explore the advanced digital portfolio of Nayi Manzil. View cutting-edge Next.js apps, SEO-optimized content sites, and premium digital agency websites."
         keywords="React Developer Portfolio, Next.js Developer Portfolio, Frontend Developer Portfolio, Best Developer Portfolio, Nayi Manzil Projects"
       />
 
@@ -124,7 +124,7 @@ export default function Portfolio() {
                   <div className="absolute inset-0 bg-slate-900 flex items-center justify-center overflow-hidden">
                     <img 
                       src={project.image} 
-                      alt={`${project.title} - Web Development Project by Hanan Irfan`} 
+                      alt={`${project.title} - Web Development Project by Nayi Manzil`} 
                       loading="lazy" 
                       className="absolute inset-0 w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 opacity-60 mix-blend-overlay"
                     />

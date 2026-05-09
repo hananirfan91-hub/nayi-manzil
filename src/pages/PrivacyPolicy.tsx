@@ -8,14 +8,14 @@ function Title({ children }: { children: React.ReactNode }) {
 export default function PrivacyPolicy() {
   return (
     <>
-      <SEO title="Privacy Policy | Nayi Manzil - Hanan Irfan" description="Privacy Policy for Nayi Manzil, the official portfolio and digital brand of Hanan Irfan." />
+      <SEO title="Privacy Policy | Nayi Manzil" description="Privacy Policy for Nayi Manzil digital brand." />
       <div className="pt-32 pb-24 container mx-auto px-4 max-w-4xl">
         <div className="prose prose-invert prose-cyan max-w-none">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Privacy Policy</h1>
           <p className="text-slate-400 text-lg mb-12 border-b border-slate-800 pb-8">Last updated: {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</p>
 
           <p className="text-slate-300 leading-relaxed text-lg">
-            At Nayi Manzil (Hanan Irfan's Portfolio), accessible from https://nayi-manzil.vercel.app/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Nayi Manzil and how we use it.
+            At Nayi Manzil, accessible from https://nayi-manzil.vercel.app/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Nayi Manzil and how we use it.
           </p>
 
           <Title>1. General Information</Title>
@@ -43,9 +43,12 @@ export default function PrivacyPolicy() {
             <li>Communicate with you (via requested external channels like WhatsApp) to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
           </ul>
 
-          <Title>4. Third-Party Links</Title>
+          <Title>4. Third-Party Links & Advertising (Google AdSense)</Title>
+          <p className="text-slate-300 leading-relaxed mb-4">
+            Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to users based on their visit to our sites and/or other sites on the Internet. Users may opt-out of personalized advertising by visiting <a href="https://myadcenter.google.com/" className="text-cyan-400 hover:text-cyan-300 underline font-medium">Ads Settings</a>.
+          </p>
           <p className="text-slate-300 leading-relaxed mb-6">
-            Nayi Manzil's Privacy Policy does not apply to other advertisers or websites. Therefore, we are advising you to consult the respective Privacy Policies of these third-party servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+            Nayi Manzil's Privacy Policy does not apply to other advertisers or websites. Therefore, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information.
           </p>
 
           <Title>5. Children's Information</Title>

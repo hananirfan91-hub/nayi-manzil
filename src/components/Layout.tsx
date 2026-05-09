@@ -51,7 +51,7 @@ export function Navbar() {
                 Nayi Manzil
               </span>
               <span className="text-[0.6rem] uppercase tracking-[0.2em] text-cyan-400 font-medium">
-                Hanan Irfan
+                The Digital Story
               </span>
             </div>
           </Link>
@@ -160,7 +160,7 @@ export function Footer() {
               </div>
               <div className="flex flex-col">
                 <span className="text-xl font-bold text-white tracking-tight">Nayi Manzil</span>
-                <span className="text-xs uppercase tracking-widest text-cyan-400 font-medium">Hanan Irfan</span>
+                <span className="text-xs uppercase tracking-widest text-cyan-400 font-medium">The Digital Story</span>
               </div>
             </Link>
             <p className="text-slate-400 text-sm leading-relaxed max-w-xs pt-4">
@@ -209,7 +209,7 @@ export function Footer() {
 
         <div className="pt-8 border-t border-slate-900 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-slate-500 text-sm">
-            &copy; {new Date().getFullYear()} Nayi Manzil (Hanan Irfan). All rights reserved.
+            &copy; {new Date().getFullYear()} Nayi Manzil. All rights reserved.
           </p>
           <div className="flex gap-4">
              <a href="https://api.whatsapp.com/send/?phone=923106359235&text&type=phone_number&app_absent=0" target="_blank" rel="noreferrer" className="text-slate-500 hover:text-cyan-400 transition-colors">WhatsApp</a>

@@ -8,9 +8,9 @@ export default function About() {
   return (
     <>
       <SEO 
-        title="About Hanan Irfan | Nayi Manzil Developer Portfolio" 
-        description="Learn about Hanan Irfan, a passionate Full Stack Developer and SEO Expert from Pakistan. Discover the 'Nayi Manzil' journey from struggle to digital excellence."
-        keywords="Hanan Irfan, About Hanan Irfan, Hanan Irfan Developer, Full Stack Developer Pakistan, Nayi Manzil Creator, Technical SEO Expert Story, Graphic Designer"
+        title="The Story of Nayi Manzil | Digital Success Journey" 
+        description="Discover the Nayi Manzil journey from struggle to digital excellence. Read the story of ambition, Full Stack web development, and Technical SEO mastery."
+        keywords="Nayi Manzil Story, Nayi Manzil Journey, Founder of Nayi Manzil, Hanan Irfan, Digital Success Story, Technical SEO Expert Story"
       />
       
       {/* Header */}
@@ -50,7 +50,7 @@ export default function About() {
               >
                 <div className="relative aspect-[4/5] rounded-3xl overflow-hidden border border-slate-700 shadow-[0_0_40px_rgba(0,0,0,0.5)] group">
                   <img 
-                    src="https://pbs.twimg.com/profile_images/2022622427378020352/xOqGLbdb_400x400.jpg" 
+                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80" 
                     alt="Hanan Irfan - Full Stack Developer and Expert SEO Professional" 
                     loading="lazy" 
                     className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700" 
